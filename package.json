@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "Ey",
   "scripts": {
-      "build": "npx parcel build",
-	"start": "npx parcel"
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "npx parcel",
+	"build": "npx parcel build",
+    	"test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "ISC",
   "devDependencies": {
