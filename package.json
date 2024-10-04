@@ -4,7 +4,7 @@
   "description": "Ey",
   "scripts": {
 "start": "npx parcel src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build"
   },
   "license": "ISC",
   "devDependencies": {
